@@ -1,0 +1,4 @@
+#Mon Jan 15 11:11:23 YEKT 2018
+base.0=C\:\\ProgramProjects\\Cordova\\passGenerate\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=C\:\\ProgramProjects\\Cordova\\passGenerate\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex

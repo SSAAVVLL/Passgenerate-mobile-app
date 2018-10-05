@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-overview",
+        "scope": null,
+        "escapedName": "cordova-plugin-overview",
+        "name": "cordova-plugin-overview",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\ProgramProjects\\Cordova\\passGenerate"
+    ]
+  ],
+  "_from": "cordova-plugin-overview@latest",
+  "_id": "cordova-plugin-overview@0.1.2",
+  "_inCache": true,
+  "_location": "/cordova-plugin-overview",
+  "_nodeVersion": "5.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-overview-0.1.2.tgz_1459873496209_0.4629189958795905"
+  },
+  "_npmUser": {
+    "name": "oliviertassinari",
+    "email": "olivier.tassinari@gmail.com"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-overview",
+    "scope": null,
+    "escapedName": "cordova-plugin-overview",
+    "name": "cordova-plugin-overview",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-overview/-/cordova-plugin-overview-0.1.2.tgz",
+  "_shasum": "e086ae1364fded9df51cd864e5a408bf09cc25d5",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-overview",
+  "_where": "C:\\ProgramProjects\\Cordova\\passGenerate",
+  "author": {
+    "name": "Doctolib",
+    "email": "tech@doctolib.fr"
+  },
+  "bugs": {
+    "url": "https://github.com/doctolib/cordova-plugin-overview/issues"
+  },
+  "dependencies": {},
+  "description": "Customize the Android Overview Screen",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e086ae1364fded9df51cd864e5a408bf09cc25d5",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-overview/-/cordova-plugin-overview-0.1.2.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "gitHead": "b077127db6329e26d30fab9d3b1335c9b240af3c",
+  "homepage": "https://github.com/doctolib/cordova-plugin-overview#readme",
+  "keywords": [
+    "cordova",
+    "android",
+    "overview",
+    "statusbar",
+    "color"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "oliviertassinari",
+      "email": "olivier.tassinari@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-overview",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctolib/cordova-plugin-overview.git"
+  },
+  "scripts": {},
+  "version": "0.1.2"
+}

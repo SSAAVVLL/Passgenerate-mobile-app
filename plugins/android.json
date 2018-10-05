@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ssaavvll.passgenerate"
+    },
+    "cordova-plugin-overview": {
+      "PACKAGE_NAME": "com.ssaavvll.passgenerate"
+    }
+  },
+  "dependent_plugins": {}
+}
